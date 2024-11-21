@@ -56,7 +56,7 @@
 
     keymap {
         compatible = "zmk,keymap";
-
+// swap C_MUTE & EQUAL for encoder on the left
         default_layer {
             display-name = "default";
 
