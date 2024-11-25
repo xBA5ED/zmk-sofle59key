@@ -8,3 +8,8 @@
 
 
 ![sofle59keyEncRight](https://github.com/user-attachments/assets/dff333a7-ba96-4db6-8968-be696cdbb430)
+
+## How bluetooth profiles work
+
+
+![soflebluetooth](https://github.com/user-attachments/assets/48da49ea-8202-4d37-804f-d13929569938)
