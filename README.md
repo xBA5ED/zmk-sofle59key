@@ -1,5 +1,5 @@
 # Sofle Choc 1 Encoder
-*my shop https://keyboard-hoarders.com & keyboardhoarders.etsy.com*
+*my shop https://keyboard-hoarders.com & https://keyboardhoarders.etsy.com*
 
 ![59key](https://github.com/user-attachments/assets/d4e1a4c2-87b7-4b6a-aeb6-3dece8e13aaf)
 
